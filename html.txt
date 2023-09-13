@@ -1,0 +1,20 @@
+<header class="header">
+  <h1 class="title">Steve Jobs</h1>
+  <p class="description">1955-2011 </p>
+</header>
+<section class="tribute">
+  <blockquote>
+    "Design is not just what it looks like and feels like. Design is how it works"
+  </blockquote>
+  <img src="https://cdn.profoto.com/cdn/053149e/contentassets/d39349344d004f9b8963df1551f24bf4/profoto-albert-watson-steve-jobs-pinned-image-original.jpg?width=1280&quality=75&format=jpg" />
+</section>
+
+<section class="bio">
+  <h2>Biography</h2>
+  <p>
+    <a href="#">This is a dead link</a>
+<a href="https://www.freecodecamp.org">This is a live link to freeCodeCamp</a>
+<a href="https://html.com/attributes/a-href/">more with a href attribute</a>
+  </p>
+  <hr />
+</section>
